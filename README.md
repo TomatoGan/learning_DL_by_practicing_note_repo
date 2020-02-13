@@ -6,7 +6,7 @@ the note repo of learing DL by practicing
 
 <!-- MarkdownTOC levels="1,2" autolink="true" -->
 
-- [LeetCode 题解](#leetcode-%E9%A2%98%E8%A7%A3)
+- [第一天](./线性回归.ipynb)
   - [链表](#%E9%93%BE%E8%A1%A8)
   - [栈-队列](#%E6%A0%88-%E9%98%9F%E5%88%97)
   - [堆](#%E5%A0%86)
